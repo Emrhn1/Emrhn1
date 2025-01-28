@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Emrhn1/Emrhn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Emirhan Erkan, a 3rd-year Computer Engineering student at Iğdır University.
 
-Here are some ideas to get you started:
+I’m passionate about:
+🌍 Environment design in games – Creating immersive and visually stunning worlds.
+💻 Web development – Building functional and aesthetically pleasing websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+In addition, I’m interested in:
+🎮 Game development – Bringing interactive experiences to life.
+📚 Learning and growing – Always eager to expand my knowledge and skills.
+🌐 Web development – Creating dynamic and responsive websites that enhance user experience.
+
+Let’s connect and create something amazing together! 🚀<!--
+
+
+- 🔭 I’m currently working on the new project related to WebSite
+- 🌱 I’m currently learning HTML,CSS,Javascript
+- 🤔 I’m looking for help with Advertisement for my Website Project
+  
+## 🎨 My Hobbies
+- 🎮 Playing video games  
+- 💻 Exploring web development  
+- 📚 Reading books  
+- 🚴‍♂️ Riding bike
+- ⚽ Playing football
+
+- - 📫 How to reach me:
+  - 📧 emirhanerkn@hotmail.com
 -->
