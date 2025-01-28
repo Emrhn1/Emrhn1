@@ -26,5 +26,7 @@ Let’s connect and create something amazing together! 🚀<!--
 - ⚽ Playing football
 
 - - 📫 How to reach me:
-  - 📧 emirhanerkn@hotmail.com
+  - 📧 Mail: emirhanerkn@hotmail.com
+  - 📸 Instagram: https://www.instagram.com/lms_emir/?next=%2Femirucar.ai%2F
+  - 💼 Linkedln: https://www.linkedin.com/in/emirhan-erkan-0aa03424b/
 -->
