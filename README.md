@@ -7,14 +7,14 @@ I’m passionate about:
 💻 Web development – Building functional and aesthetically pleasing websites.
 
 In addition, I’m interested in:
-🎮 Game development – Bringing interactive experiences to life.
+🎮 Environment Design – Bringing interactive experiences to life.
 📚 Learning and growing – Always eager to expand my knowledge and skills.
 🌐 Web development – Creating dynamic and responsive websites that enhance user experience.
 
 Let’s connect and create something amazing together! 🚀<!--
 
 
-- 🔭 I’m currently working on the new project related to WebSite
+- 🔭 I’m currently working on the new project related to Personal WebSite
 - 🌱 I’m currently learning HTML,CSS,Javascript
 - 🤔 I’m looking for help with Advertisement for my Website Project
   
