@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello, I'm Emirhan Erkan, a 3rd-year Computer Engineering student at Iğdır University.
+Hello, I'm Emirhan Erkan, a 4th-year Computer Engineering student at Igdir University.
 
 I’m passionate about:
 🌍 Environment design in games – Creating immersive and visually stunning worlds.
@@ -15,7 +15,7 @@ Let’s connect and create something amazing together! 🚀<!--
 
 
 - 🔭 I’m currently working on the new project related to Personal WebSite
-- 🌱 I’m currently learning HTML,CSS,Javascript
+- 🌱 I’m currently learning Javascript, React and Next.js
 - 🤔 I’m looking for help with Advertisement for my Website Project
   
 ## 🎨 My Hobbies
