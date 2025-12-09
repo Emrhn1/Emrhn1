@@ -20,7 +20,7 @@ I'm Emirhan Erkan — a Computer Engineering student and a passionate Web Develo
 ### ⭐ Featured Projects
 - **Personal Portfolio Website** – Next.js + Tailwind  
 - **Mini E-Commerce UI** – React + Redux Toolkit + Next.js
-- **Ürün/Talep Yönetim Sistemi - Next.js + Redux + Typescript
+- **Ürün/Talep Yönetim Sistemi** – React + Redux Toolkit + Next.js
 
 ---
 
