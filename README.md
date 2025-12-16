@@ -41,9 +41,9 @@ I'm Emirhan Erkan — a Computer Engineering student and a passionate Web Develo
 ---
 
 ### 📫 Contact
-- Email: emirhanerkandev@gmail.com  
+- Email: oyuncut80@gmail.com  
 - LinkedIn: linkedin.com/in/emirhan-erkan-0aa03424b/ 
-- Portfolio: https://emirhan-erkan.vercel.app�
+- Portfolio: https://emirhan-erkan.vercel.app
 
 ---
 
