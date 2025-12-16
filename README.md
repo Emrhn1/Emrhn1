@@ -42,7 +42,7 @@ I'm Emirhan Erkan — a Computer Engineering student and a passionate Web Develo
 
 ### 📫 Contact
 - Email: oyuncut80@gmail.com  
-- LinkedIn:  https://www.linkedin.com/in/emirhan-erkan-0aa03424b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- Linkedln: https://www.linkedin.com/in/emirhan-erkan-0aa03424b/
 - Portfolio: https://emirhan-erkan.vercel.app
 
 ---
