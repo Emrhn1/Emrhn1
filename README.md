@@ -51,3 +51,10 @@ I'm Emirhan Erkan — a Computer Engineering student and a passionate Web Develo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emrhn1&show_icons=true&theme=react)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emrhn1&layout=compact&theme=react)
 
+
+
+[![Emirhan Erkan profile views](https://u8views.com/api/v1/github/profiles/117353243/views/day-week-month-total-count.svg)](https://u8views.com/github/Emrhn1)
+
+
+
+
