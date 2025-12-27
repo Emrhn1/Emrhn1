@@ -74,19 +74,19 @@ const emirhan = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emrhn1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrhn1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emrhn1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrhn1&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com? user=Emrhn1&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com? user=Emrhn1&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emrhn1&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph? username=Emrhn1&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -94,7 +94,7 @@ const emirhan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=Emrhn1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Emrhn1&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
