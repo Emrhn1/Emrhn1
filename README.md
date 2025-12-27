@@ -2,7 +2,7 @@
   
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=520&lines=Hi+%F0%9F%91%8B+I'm+Emirhan+Erkan;Frontend+Developer;React+%26+Next.js+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=520&lines=Hi+%F0%9F%91%8B+I'm+Emirhan+Erkan;Frontend+Developer;React+%26+Next.js+Enthusiast" alt="Typing SVG" />
   </a>
 
   <!-- Social Badges -->
@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/emirhan-erkan-0aa03424b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:oyuncut80@gmail.com">
+    <a href="mailto: oyuncut80@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://emirhan-erkan.vercel.app">
@@ -29,7 +29,7 @@
 
 ```javascript
 const emirhan = {
-    location: "Turkey 🇹🇷",
+    location:  "Turkey 🇹🇷",
     education: "Computer Engineering Student",
     currentFocus: ["React", "Next.js", "Redux Toolkit"],
     askMeAbout: ["Web Dev", "UI/UX", "JavaScript"],
@@ -86,7 +86,7 @@ const emirhan = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph? username=Emrhn1&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel. app/graph?username=Emrhn1&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -104,10 +104,10 @@ const emirhan = {
 <div align="center">
   
   <a href="https://github.com/Emrhn1/NextJS-Store-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=NextJS-Store-Project&theme=react&hide_border=true&bg_color=0D1117" alt="NextJS Store Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/? username=Emrhn1&repo=NextJS-Store-Project&theme=react&hide_border=true&bg_color=0D1117" alt="NextJS Store Project"/>
   </a>
   <a href="https://github.com/Emrhn1/Learning-Dashboard-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=Learning-Dashboard-&theme=react&hide_border=true&bg_color=0D1117" alt="Learning Dashboard"/>
+    <img src="https://github-readme-stats.vercel. app/api/pin/?username=Emrhn1&repo=Learning-Dashboard-&theme=react&hide_border=true&bg_color=0D1117" alt="Learning Dashboard"/>
   </a>
   
 </div>
@@ -149,8 +149,8 @@ const emirhan = {
 
 <div align="center">
   
-  <a href="mailto:oyuncut80@gmail. com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:oyuncut80@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335? style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/emirhan-erkan-0aa03424b/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
