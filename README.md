@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Emirhan%20Erkan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20Web%20Enthusiast&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Emirhan%20Erkan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20|%20Web%20Enthusiast&descAlignY=52&descSize=18"/>
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
@@ -13,10 +13,10 @@
     <a href="https://www.linkedin.com/in/emirhan-erkan-0aa03424b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:oyuncut80@gmail. com">
+    <a href="mailto:oyuncut80@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://emirhan-erkan.vercel. app">
+    <a href="https://emirhan-erkan.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
@@ -42,7 +42,7 @@ const emirhan = {
 
 - 🔭 Currently working on **Personal Portfolio Website**
 - 🌱 Learning **React**, **Next.js**, **Redux Toolkit**
-- 🎯 2026 Goal:  Become a professional **Frontend Developer**
+- 🎯 2026 Goal: Become a professional **Frontend Developer**
 - ⚡ Fun fact: I love combining creativity with code! 
 
 ---
@@ -61,7 +61,7 @@ const emirhan = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC? style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -78,9 +78,7 @@ const emirhan = {
 <div align="center">
   
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emrhn1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
-  
-  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api? username=Emrhn1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrhn1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
 
 </div>
@@ -94,7 +92,7 @@ const emirhan = {
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel. app/graph?username=Emrhn1&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emrhn1&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -111,8 +109,11 @@ const emirhan = {
 
 <div align="center">
   
-  <a href="https://github.com/Emrhn1/your-portfolio-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/? username=Emrhn1&repo=Emrhn1&theme=react&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
+  <a href="https://github.com/Emrhn1/personal-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=personal-portfolio&theme=react&hide_border=true&bg_color=0D1117" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Emrhn1/e-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=e-commerce&theme=react&hide_border=true&bg_color=0D1117" alt="E-Commerce"/>
   </a>
 
 </div>
@@ -135,8 +136,7 @@ const emirhan = {
 
 <div align="center">
 
-| 🎮 Gaming | 💻 Web Dev | 📚 Reading | 🚴 Cycling | ⚽ Football |
-|:---------:|: ----------:|: ----------:|: ----------:|:-----------:|
+🎮 Gaming | 💻 Web Dev | 📚 Reading | 🚴 Cycling | ⚽ Football
 
 </div>
 
@@ -161,13 +161,6 @@ const emirhan = {
 ---
 
 <div align="center">
-  
-  <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  </picture>
 
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api? type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
