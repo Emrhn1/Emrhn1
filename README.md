@@ -2,7 +2,7 @@
   
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=520&lines=Hi+%F0%9F%91%8B+I'm+Emirhan+Erkan;Frontend+Developer;React+%26+Next.js+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=520&lines=Hi+%F0%9F%91%8B+I'm+Emirhan+Erkan;Frontend+Developer;React+%26+Next.js+Enthusiast" alt="Typing SVG" />
   </a>
 
   <!-- Social Badges -->
@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/emirhan-erkan-0aa03424b/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto: oyuncut80@gmail.com">
+    <a href="mailto:oyuncut80@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
     <a href="https://emirhan-erkan.vercel.app">
@@ -29,7 +29,7 @@
 
 ```javascript
 const emirhan = {
-    location:  "Turkey 🇹🇷",
+    location: "Turkey 🇹🇷",
     education: "Computer Engineering Student",
     currentFocus: ["React", "Next.js", "Redux Toolkit"],
     askMeAbout: ["Web Dev", "UI/UX", "JavaScript"],
@@ -39,8 +39,8 @@ const emirhan = {
 
 - 🔭 Currently working on **Personal Portfolio Website**
 - 🌱 Learning **React**, **Next.js**, **Redux Toolkit**
-- 🎯 2026 Goal: Become a professional **Frontend Developer**
-- ⚡ Fun fact:  I love combining creativity with code! 
+- 🎯 2026 Goal:  Become a professional **Frontend Developer**
+- ⚡ Fun fact: I love combining creativity with code! 
 
 ---
 
@@ -74,14 +74,14 @@ const emirhan = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emrhn1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel. app/api/top-langs/? username=Emrhn1&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emrhn1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrhn1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
 
 </div>
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com? user=Emrhn1&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com? user=Emrhn1&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,7 +94,7 @@ const emirhan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=Emrhn1&theme=algolia&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/? username=Emrhn1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -104,10 +104,10 @@ const emirhan = {
 <div align="center">
   
   <a href="https://github.com/Emrhn1/NextJS-Store-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/? username=Emrhn1&repo=NextJS-Store-Project&theme=react&hide_border=true&bg_color=0D1117" alt="NextJS Store Project"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=NextJS-Store-Project&theme=react&hide_border=true&bg_color=0D1117" alt="NextJS Store Project"/>
   </a>
   <a href="https://github.com/Emrhn1/Learning-Dashboard-">
-    <img src="https://github-readme-stats.vercel. app/api/pin/?username=Emrhn1&repo=Learning-Dashboard-&theme=react&hide_border=true&bg_color=0D1117" alt="Learning Dashboard"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=Learning-Dashboard-&theme=react&hide_border=true&bg_color=0D1117" alt="Learning Dashboard"/>
   </a>
   
 </div>
@@ -118,7 +118,7 @@ const emirhan = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=Emrhn1.github.io&theme=react&hide_border=true&bg_color=0D1117" alt="Personal Website"/>
   </a>
   <a href="https://github.com/Emrhn1/World-Countries-Quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="World Countries Quiz"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/? username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="World Countries Quiz"/>
   </a>
 
 </div>
@@ -149,13 +149,13 @@ const emirhan = {
 
 <div align="center">
   
-  <a href="mailto:oyuncut80@gmail.com">
+  <a href="mailto:oyuncut80@gmail. com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/emirhan-erkan-0aa03424b/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://emirhan-erkan.vercel. app">
+  <a href="https://emirhan-erkan.vercel.app">
     <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   
