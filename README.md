@@ -74,14 +74,14 @@ const emirhan = {
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Emrhn1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emrhn1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Emrhn1&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Emrhn1&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=38BDF8"/>
 
 </div>
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com?user=Emrhn1&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emrhn1&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,7 +94,7 @@ const emirhan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Emrhn1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Emrhn1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -104,10 +104,10 @@ const emirhan = {
 <div align="center">
   
   <a href="https://github.com/Emrhn1/NextJS-Store-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=NextJS-Store-Project&theme=react&hide_border=true&bg_color=0D1117" alt="NextJS Store Project"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=NextJS-Store-Project&theme=react&hide_border=true&bg_color=0D1117" alt="NextJS Store Project"/>
   </a>
   <a href="https://github.com/Emrhn1/Learning-Dashboard-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=Learning-Dashboard-&theme=react&hide_border=true&bg_color=0D1117" alt="Learning Dashboard"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=Learning-Dashboard-&theme=react&hide_border=true&bg_color=0D1117" alt="Learning Dashboard"/>
   </a>
   
 </div>
@@ -115,10 +115,10 @@ const emirhan = {
 <div align="center">
   
   <a href="https://github.com/Emrhn1/Emrhn1.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=Emrhn1.github.io&theme=react&hide_border=true&bg_color=0D1117" alt="Personal Website"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=Emrhn1.github.io&theme=react&hide_border=true&bg_color=0D1117" alt="Personal Website"/>
   </a>
   <a href="https://github.com/Emrhn1/World-Countries-Quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="World Countries Quiz"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="World Countries Quiz"/>
   </a>
 
 </div>
