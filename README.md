@@ -49,7 +49,7 @@ const emirhan = {
 <div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E? style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -81,7 +81,7 @@ const emirhan = {
 
 <div align="center">
   
-  <img src="https://streak-stats.demolab.com? user=Emrhn1&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Emrhn1&theme=react&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,7 +94,7 @@ const emirhan = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=Emrhn1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Emrhn1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -118,7 +118,7 @@ const emirhan = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=Emrhn1.github.io&theme=react&hide_border=true&bg_color=0D1117" alt="Personal Website"/>
   </a>
   <a href="https://github.com/Emrhn1/World-Countries-Quiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/? username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="World Countries Quiz"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="World Countries Quiz"/>
   </a>
 
 </div>
@@ -149,7 +149,7 @@ const emirhan = {
 
 <div align="center">
   
-  <a href="mailto:oyuncut80@gmail. com">
+  <a href="mailto:oyuncut80@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/emirhan-erkan-0aa03424b/">
