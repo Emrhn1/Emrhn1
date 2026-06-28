@@ -37,7 +37,7 @@ const emirhan = {
 };
 ```
 
-- 🔭 Currently working on **Personal Portfolio Website**
+- 🔭 Currently working on **Big E-Commerce Site**
 - 🌱 Learning **React**, **Next.js**, **Redux Toolkit**
 - 🎯 2026 Goal:  Become a professional **Frontend Developer**
 - ⚡ Fun fact: I love combining creativity with code! 
