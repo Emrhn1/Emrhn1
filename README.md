@@ -115,11 +115,11 @@ const emirhan = {
 
 <div align="center">
   
-  <a href="https://github.com/Emrhn1/Emrhn1.github.io">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=Emrhn1.github.io&theme=react&hide_border=true&bg_color=0D1117" alt="Personal Website"/>
+  <a href="https://github.com/Emrhn1/Staj-Proje">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=Emrhn1.github.io&theme=react&hide_border=true&bg_color=0D1117" alt="Staj Projesi"/>
   </a>
-  <a href="https://github.com/Emrhn1/World-Countries-Quiz">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="World Countries Quiz"/>
+  <a href="https://github.com/Emrhn1/GameFit">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="GameFit"/>
   </a>
 
 </div>
@@ -156,7 +156,7 @@ const emirhan = {
   <a href="https://www.linkedin.com/in/emirhan-erkan-0aa03424b/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://emirhan-erkan.vercel.app">
+  <a href="https://www.emirhanerkan.com/tr">
     <img src="https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   
