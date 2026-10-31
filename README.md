@@ -116,10 +116,10 @@ const emirhan = {
 <div align="center">
   
   <a href="https://github.com/Emrhn1/Staj-Proje">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=Emrhn1.github.io&theme=react&hide_border=true&bg_color=0D1117" alt="Staj Projesi"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=Staj-Proje&theme=react&hide_border=true&bg_color=0D1117" alt="Staj Projesi"/>
   </a>
   <a href="https://github.com/Emrhn1/GameFit">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=World-Countries-Quiz&theme=react&hide_border=true&bg_color=0D1117" alt="GameFit"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Emrhn1&repo=GameFit&theme=react&hide_border=true&bg_color=0D1117" alt="GameFit"/>
   </a>
 
 </div>
